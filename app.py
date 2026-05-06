@@ -1,5 +1,5 @@
 import streamlit as st
-import qr_code
+import qrcode
 from PIL import Image
 
 # page title
